@@ -12,7 +12,7 @@ public class Solution {
 
         Solution sol = new Solution();
 
-        int[] nums = {1, 3,1};
+        int[] nums = {1, 2,3,1};
         int rob = sol.rob(nums);
         System.out.println(rob);
 
